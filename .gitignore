@@ -1,0 +1,16 @@
+*/staging/*
+*/bin/*
+*/dist/*
+*/target/*
+*/CHANGE ME
+*/.gradle/*
+*/lock
+*/logs/*.log
+*/*.log
+*/*.db
+*/*.iml
+*/*.ipr
+*/*.iws
+*/griffon-app/resources/config.properties_t
+*/hogehoge.txt
+plugins_svn
